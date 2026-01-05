@@ -1,0 +1,14 @@
+# Showcase repo - only README and screenshots
+# Ignore everything by default
+*
+
+# Keep these files
+!.gitignore
+!README.md
+!LICENSE
+
+# Keep docs/images folder
+!docs/
+docs/*
+!docs/images/
+!docs/images/**
