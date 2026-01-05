@@ -4,6 +4,9 @@
 ![React](https://img.shields.io/badge/React-18.x-61DAFB.svg)
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Work%20In%20Progress-orange.svg)
+
+> **Note:** This project is currently a work in progress. The source code is not publicly available at this time. If you're interested in the code, collaboration, or have questions, please reach out to me on [LinkedIn](https://linkedin.com/in/anthonyrhopkins).
 
 ## Table of Contents
 
